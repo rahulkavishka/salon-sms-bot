@@ -2,7 +2,7 @@
 
 A high-performance, AI-driven SMS chatbot for hair salons built on **n8n**. This bot automates the entire customer journey—from answering general inquiries and checking service prices to handling complex multi-step bookings and proactive customer retention.
 
-![system](https://res.cloudinary.com/dagj9begy/image/upload/v1777394385/Screenshot_2026-04-28_220037_ogacyn.png)
+![system](https://res.cloudinary.com/dagj9begy/image/upload/v1777435970/Screenshot_2026-04-29_094109_ecce0f.png)
 
 ## 🚀 Core Features
 
